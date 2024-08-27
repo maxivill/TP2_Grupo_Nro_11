@@ -23,6 +23,7 @@
             <br />
             <br />
             <br />
+            <br />
             <asp:Button ID="btnTabla" runat="server" OnClick="btnTabla_Click" Text="Generar Tabla" />
             <br />
             <br />
